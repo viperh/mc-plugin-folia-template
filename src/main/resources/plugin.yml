@@ -1,0 +1,9 @@
+name: MCTemplate
+version: ${project.version}
+main: org.me.qviperh.mCTemplate.MCTemplate
+api-version: '1.21'
+folia-supported: true
+prefix: MCTemplate
+description: A Kotlin Folia plugin template
+authors:
+  - qViperH
